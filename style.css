@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 239, 15);
+    text-align: center;
+}
+
+div{
+    margin: auto;
+    border: 10px solid black;
+    border-radius: 20px;
+    width: 500px;
+    height: 350px;
+    background-color: crimson;    
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
